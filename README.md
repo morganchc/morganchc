@@ -1,4 +1,4 @@
-**# Hi, I'm Morgan!
+# Hi, I'm Morgan!
 
 🎓 Student studying in Germany
 
