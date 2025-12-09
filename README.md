@@ -1,11 +1,12 @@
 ### Hi, I'm Morgan!
 
-🎓 Student studying in Germany
+🎓 **Data Science student studying in Germany**
+💻 Exploring full-stack development, machine learning, and app dev
 
-### 🛠️ Tech & Tools
-- Programming: Python | JavaScript | Java  
+### Tech & Tools
+Python | JavaScript |  R | SQL | 
+
 
 ### My Projects
-- 🚀 **My First Project** – A simple beginner-friendly app  
-- 📊 **Data Exploration Project** – Analyzing datasets with Python  
+- Stock Market App - built with flutter
 
