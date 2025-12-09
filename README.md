@@ -1,11 +1,11 @@
-## Hi, I'm Morgan!
+### Hi, I'm Morgan!
 
 🎓 Student studying in Germany
 
-## 🛠️ Tech & Tools
+### 🛠️ Tech & Tools
 - Programming: Python | JavaScript | Java  
 
-## My Projects
+### My Projects
 - 🚀 **My First Project** – A simple beginner-friendly app  
 - 📊 **Data Exploration Project** – Analyzing datasets with Python  
 
