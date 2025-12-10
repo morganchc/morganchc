@@ -13,4 +13,5 @@
 
 ### 🚀 My Projects
 - [Stock Market APP](https://github.com/morganchc/StockMarketApp.git) - A real-time stock tracking app built with Flutter 📈
+- [Todo List](https://github.com/morganchc/TodoList.git) - A TypeScript & JavaScript interactive To-Do List
 
