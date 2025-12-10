@@ -7,8 +7,8 @@
 ### Tech & Tools
 **Languages:** Python | JavaScript | R | SQL  
 **App / Web Development:** Flutter | HTML | CSS  
-  
-  
+
+
 ### My Projects
-- Stock Market App - built with flutter
+- [Stock Market APP](https://github.com/morganchc/StockMarketApp.git) - built with Flutter
 
